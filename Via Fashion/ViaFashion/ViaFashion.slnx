@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ViaFashion.Data/ViaFashion.Data.csproj" />
+  <Project Path="ViaFashion.Domain/ViaFashion.Domain.csproj" />
+  <Project Path="ViaFashion/ViaFashion.UI.csproj" Id="41b1deba-bf91-45da-8365-81abc014ceab" />
+</Solution>
